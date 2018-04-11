@@ -1,11 +1,11 @@
 # CSS(Cascading Style Sheets:层叠样式表)
 
-###### CSS定位(Positioning)
+#### CSS定位(Positioning)
 ```
     css三种基本定位机制：普通流、浮动和绝对定位。
 ```
 
-###### CSS定位属性
+##### CSS定位属性
 ```
     css定位属性允许你对元素进行定位。
     1.position[把元素放置到一个静态的、相对的、绝对的、或固定的位置中。]
@@ -65,3 +65,47 @@
 *****
 ![浮动：float](./Images/floating_left2.gif)
 
+#### CSS的Opacity属性
+```
+    opacity的值从0.0~1.0
+```
+    
+
+#### CSS的单位
+```
+尺寸：
+    1.百分比：%
+    2.英寸：in
+    3.em：1em 等于当前的字体尺寸。2em 等于当前字体尺寸的两倍。例如，如果某元素以 12pt 显示，那么 2em 是24pt。在 CSS 中，em 是非常有用的单位，因为它可以自动适应用户所使用的字体。
+    4.ex：一个 ex 是一个字体的 x-height。 (x-height 通常是字体尺寸的一半。)
+    5.pt: 磅 (1 pt 等于 1/72 英寸)
+    6.pc: 12 点活字 (1 pc 等于 12 点)
+    7.px: 像素 (计算机屏幕上的一个点)
+颜色：
+    rgb(x,x,x): RGB 值 (比如 rgb(255,0,0))
+    rgb(x%, x%, x%): RGB 百分比值 (比如 rgb(100%,0%,0%))
+    #rrggbb: 十六进制数 (比如 #ff0000)
+```
+
+#### CSS的颜色名
+```
+    HTML和CSS颜色规范中定义了147中颜色名（17种标准颜色加130种其他颜色）
+    17种标准色是：
+        aqua,
+        black,
+        blue,
+        fuchsia,
+        gray,
+        green,
+        lime,
+        maroon,
+        navy,
+        olive,
+        orange,
+        purple,
+        red,
+        silver,
+        teal,
+        white,
+        yellow
+```
