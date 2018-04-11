@@ -1,5 +1,6 @@
 ### XML
 ##### XML简介
+
 ```
     可扩展标记语言，标准通用标记语言的子集，是一种用于标记电子文件使其具有结构性的标记语言。
     设计宗旨是用来传输和存取数据的，而不是用来显示数据的。
@@ -8,11 +9,13 @@
 ##### XML语法
 - 所有XML元素都须有关闭标签
 ###### 在HTML，经常会看到没有关闭标签的元素：
+
     ```
         <p>This is a paragraph
         <p>This is another paragraph
     ```
 ###### 在XML中，省略关闭标签是非法的。所有元素都必须有关闭标签：
+
     ```
         <p>This is a paragraph</p>
         <p>This is another paragraph</p>  
