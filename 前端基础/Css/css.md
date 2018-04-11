@@ -37,7 +37,7 @@
       top: 20px;
     }
 ```
-
+*****
 如下图所示：
 ![相对定位：relative](./Images/relative.gif)
 
@@ -51,6 +51,7 @@
     }
 ```
 
+*****
 如下图所示：
 ![绝对定位：absolute](./Images/absolute.gif)
 
@@ -58,8 +59,9 @@
 右浮动：
 ![浮动：float](./Images/floating_right.gif)
 
+*****
 左浮动：
 ![浮动：float](./Images/floating_left1.gif)
-
+*****
 ![浮动：float](./Images/floating_left2.gif)
 
