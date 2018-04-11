@@ -29,5 +29,34 @@
 ```
 
 ###### CSS的相对定位
-![相对定位：relative](./relative.gif)
+是设置为相对定位的元素框会偏移某个距离。元素仍然保持其未定位前的形状，它原本所占的空间仍保留。
+```
+    #box_relative {
+      position: relative;
+      left: 30px;
+      top: 20px;
+    }
+```
+如下图所示：
+![相对定位：relative](./Images/relative.gif)
+
+###### CSS的绝对定位
+绝对定位使元素的位置与文档流无关，因此不占据空间。这一点与相对定位不同，相对定位实际上被看作普通流定位模型的一部分，因为元素的位置相对于它在普通流中的位置。
+```
+    #box_relative {
+      position: absolute;
+      left: 30px;
+      top: 20px;
+    }
+```
+如下图所示：
+![绝对定位：absolute](./Images/absolute.gif)
+
+###### CSS的浮动
+右浮动：
+![浮动：float](./Images/floating_right.gif)
+
+左浮动：
+![浮动：float](./Images/floating_left1.gif)
+![浮动：float](./Images/floating_left2.gif)
 
