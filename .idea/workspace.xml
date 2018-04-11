@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d651ec2-5ca6-4e21-919f-41015ea20a16" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/前端基础/Css/css.md" afterPath="$PROJECT_DIR$/前端基础/Css/css.md" />
-      <change beforePath="$PROJECT_DIR$/前端基础/Css/css3.md" afterPath="$PROJECT_DIR$/前端基础/Css/css3.md" />
+      <change beforePath="$PROJECT_DIR$/前端基础/Dataformat/json.md" afterPath="$PROJECT_DIR$/前端基础/Dataformat/json.md" />
+      <change beforePath="$PROJECT_DIR$/前端基础/Dataformat/xml.md" afterPath="$PROJECT_DIR$/前端基础/Dataformat/xml.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,12 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="css3.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/前端基础/Css/css3.md">
+      <file leaf-file-name="xml.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/前端基础/Dataformat/xml.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="388">
-                <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+              <first_editor relative-caret-position="365">
+                <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -27,12 +27,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端基础/Css/css.md">
+      <file leaf-file-name="json.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/前端基础/Dataformat/json.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-26">
-                <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+              <first_editor relative-caret-position="598">
+                <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -53,6 +53,8 @@
         <option value="$PROJECT_DIR$/目录/各种协议/HTTP/1.md" />
         <option value="$PROJECT_DIR$/前端基础/Css/css.md" />
         <option value="$PROJECT_DIR$/前端基础/Css/css3.md" />
+        <option value="$PROJECT_DIR$/前端基础/Dataformat/json.md" />
+        <option value="$PROJECT_DIR$/前端基础/Dataformat/xml.md" />
       </list>
     </option>
   </component>
@@ -105,7 +107,8 @@
             <path>
               <item name="学习笔记" type="b2602c69:ProjectViewProjectNode" />
               <item name="学习笔记" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="面试知识" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="前端基础" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Dataformat" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -153,12 +156,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523352419954</updated>
       <workItem from="1523352421714" duration="3527000" />
-      <workItem from="1523414679226" duration="6379000" />
+      <workItem from="1523414679226" duration="8627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9906000" />
+    <option name="totallyTimeSpent" value="12154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="706" extended-state="0" />
@@ -194,21 +197,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/目录/面试知识/1.md" />
-    <entry file="file://$PROJECT_DIR$/目录/数据库/mian-shi-zong-jie.md" />
-    <entry file="file://$PROJECT_DIR$/目录/数据库/nodejsxiang-mu-xian-shang-bu-shu.md" />
-    <entry file="file://$PROJECT_DIR$/目录/开发语言/Nodejs/nodejs项目线上部署.md" />
-    <entry file="file://$PROJECT_DIR$/目录/各种协议/HTTP/1.md" />
-    <entry file="file://$PROJECT_DIR$/前端基础/Css/Images/floating_left1.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端基础/Css/Images/floating_right.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端框架/Adonis/adonis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -671,10 +659,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/前端基础/Css/css3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="805">
+            <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/非关系性数据库/redis.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/关系型数据库/sqlserver.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/关系型数据库/postgresql.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/关系型数据库/oracle.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/关系型数据库/mysql.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/前端基础/Css/css.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-26">
+          <first_editor relative-caret-position="2116">
             <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
             <folding />
           </first_editor>
@@ -682,11 +736,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端基础/Css/css3.md">
+    <entry file="file://$PROJECT_DIR$/前端基础/Dataformat/json.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="388">
-            <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <first_editor relative-caret-position="598">
+            <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端基础/Dataformat/xml.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="365">
+            <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
