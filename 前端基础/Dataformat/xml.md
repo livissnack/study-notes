@@ -9,7 +9,6 @@
 ##### XML语法
 - 所有XML元素都须有关闭标签
 ###### 在HTML，经常会看到没有关闭标签的元素：
-
 ```
     <p>This is a paragraph
     <p>This is another paragraph
