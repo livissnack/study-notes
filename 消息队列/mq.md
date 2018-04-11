@@ -67,8 +67,12 @@
 #### MQ模型
 ![MQ模型1：model](./Images/mq1.jpg)
 <br />
+
+*****
 ![MQ模型2：model](./Images/mq2.jpg)
 <br />
+
+*****
 ![MQ模型3：model](./Images/mq3.jpg)
 #### MQ组成
 - Broker：消息服务器，作为server提供消息核心服务
