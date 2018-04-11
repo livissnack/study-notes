@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d651ec2-5ca6-4e21-919f-41015ea20a16" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/消息队列/Images/mq1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/消息队列/Images/mq2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/消息队列/Images/mq3.jpg" />
       <change beforePath="$PROJECT_DIR$/消息队列/mq.md" afterPath="$PROJECT_DIR$/消息队列/mq.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +20,21 @@
         <entry file="file://$PROJECT_DIR$/消息队列/mq.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="472">
-                <caret line="173" column="4" lean-forward="false" selection-start-line="173" selection-start-column="4" selection-end-line="173" selection-end-column="4" />
+              <first_editor relative-caret-position="260">
+                <caret line="69" column="27" lean-forward="false" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/前端基础/Css/css.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="182">
+                <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="39" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -83,7 +99,24 @@
             <path>
               <item name="学习笔记" type="b2602c69:ProjectViewProjectNode" />
               <item name="学习笔记" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="前端基础" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="学习笔记" type="b2602c69:ProjectViewProjectNode" />
+              <item name="学习笔记" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="前端基础" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="学习笔记" type="b2602c69:ProjectViewProjectNode" />
+              <item name="学习笔记" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="消息队列" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="学习笔记" type="b2602c69:ProjectViewProjectNode" />
+              <item name="学习笔记" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="消息队列" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -98,11 +131,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/消息队列/Images" />
+      <recent name="$PROJECT_DIR$/消息队列" />
       <recent name="$PROJECT_DIR$/前端基础/Css/Images" />
       <recent name="$PROJECT_DIR$/前端基础/Css" />
       <recent name="$PROJECT_DIR$/目录/前端框架" />
-      <recent name="$PROJECT_DIR$/目录/前端基础/dataformat" />
-      <recent name="$PROJECT_DIR$/目录/前端基础/javascript" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -131,12 +164,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523352419954</updated>
       <workItem from="1523352421714" duration="3527000" />
-      <workItem from="1523414679226" duration="11237000" />
+      <workItem from="1523414679226" duration="11506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14764000" />
+    <option name="totallyTimeSpent" value="15033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="706" extended-state="0" />
@@ -689,17 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端基础/Css/css.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2116">
-            <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端基础/Dataformat/xml.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -722,11 +744,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/前端基础/Css/css.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="182">
+            <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="39" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/消息队列/mq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="472">
-            <caret line="173" column="4" lean-forward="false" selection-start-line="173" selection-start-column="4" selection-end-line="173" selection-end-column="4" />
+          <first_editor relative-caret-position="260">
+            <caret line="69" column="27" lean-forward="false" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
