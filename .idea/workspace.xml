@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d651ec2-5ca6-4e21-919f-41015ea20a16" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/前端基础/Css/sass.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/服务器/Nginx/laravel.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/服务器/Nginx/ssl.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/地图调用/Google地图接口使用/googleMap.md" afterPath="$PROJECT_DIR$/地图调用/Google地图接口使用/googleMap.md" />
+      <change beforePath="$PROJECT_DIR$/前端基础/Css/sass.md" afterPath="$PROJECT_DIR$/前端基础/Css/sass.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/前端基础/Css/sass.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="6211">
-                <caret line="291" column="4" lean-forward="false" selection-start-line="291" selection-start-column="4" selection-end-line="291" selection-end-column="4" />
+              <first_editor relative-caret-position="184">
+                <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -152,12 +148,12 @@
       <updated>1523352419954</updated>
       <workItem from="1523352421714" duration="3527000" />
       <workItem from="1523414679226" duration="12985000" />
-      <workItem from="1523517536872" duration="2722000" />
+      <workItem from="1523517536872" duration="2897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19234000" />
+    <option name="totallyTimeSpent" value="19409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="706" extended-state="0" />
@@ -701,8 +697,8 @@
     <entry file="file://$PROJECT_DIR$/前端基础/Css/sass.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="6211">
-            <caret line="291" column="4" lean-forward="false" selection-start-line="291" selection-start-column="4" selection-end-line="291" selection-end-column="4" />
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor />
