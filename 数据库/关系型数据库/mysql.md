@@ -1,6 +1,6 @@
 # mysql的学习心得
 
-[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/livissnack)
+[![mysql](	https://img.shields.io/coveralls/github/jekyll/jekyll.svg)](https://github.com/livissnack)
 
 #### 开启服务
 mysqld

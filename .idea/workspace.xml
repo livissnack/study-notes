@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d651ec2-5ca6-4e21-919f-41015ea20a16" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据库/关系型数据库/Images/mysql1.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/数据库/关系型数据库/mysql.md" afterPath="$PROJECT_DIR$/数据库/关系型数据库/mysql.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/数据库/关系型数据库/mysql.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="365">
-                <caret line="89" column="16" lean-forward="false" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+              <first_editor relative-caret-position="46">
+                <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -177,12 +175,12 @@
       <updated>1523352419954</updated>
       <workItem from="1523352421714" duration="3527000" />
       <workItem from="1523414679226" duration="12985000" />
-      <workItem from="1523517536872" duration="4686000" />
+      <workItem from="1523517536872" duration="4906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21198000" />
+    <option name="totallyTimeSpent" value="21418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="706" extended-state="0" />
@@ -726,8 +724,8 @@
     <entry file="file://$PROJECT_DIR$/数据库/关系型数据库/mysql.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="365">
-            <caret line="89" column="16" lean-forward="false" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="16" />
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
